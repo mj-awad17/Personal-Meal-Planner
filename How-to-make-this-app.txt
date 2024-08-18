@@ -1,0 +1,23 @@
+1 - Make a virtual enviroment
+    - to install -> python -m ven .evn
+    - to activate -> source evn/Script/activate
+
+2 - Install dependencies
+    - streamlit
+    - anthropic
+
+3 - Make the frontend of the app
+    Go to chatgpt and ask it to make a streamlit frontend according to the requirements and Test it.
+
+4 - Take the API key from AI company website or Hugging faces
+    -> https://console.anthropic.com/
+
+5 - Write the function for integrating the AI model using the api key.
+
+6 - Test the app localy using the api key directly.
+
+7. make a requirements.txt file
+
+8. make a github repository
+
+9. Now to deploy the app go to streamlit cloud and add your api key in streamlit secrets 
